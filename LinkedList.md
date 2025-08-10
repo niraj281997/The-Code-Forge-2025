@@ -19,8 +19,6 @@ Odd Even Linked List
 Copy List with Random Pointer
 Swap Nodes in Pairs 
 Add Two Numbers 
-
-
 Linked List Insetion Sort 
 Reorder List 
 Implement Queue using Linked List
