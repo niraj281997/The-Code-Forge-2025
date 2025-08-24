@@ -16,7 +16,7 @@ struct Particle {
 Particle particles[N];
 ```
 
-##✅ Pros:
+✅ Pros:
 
 Intuitive and easy to manage
 
@@ -35,23 +35,29 @@ Each field is stored in a separate array.
 struct Particles {
     float x[N], y[N], z[N];
     float velocity[N];
-};```
-#✅ Pros:
+};
+```
+✅ Pros:
 
 Excellent memory coalescing
 
 Threads access contiguous memory, boosting performance
 
-#❌ Cons:
+❌ Cons:
 
 Slightly more complex to manage
 
 Less intuitive for some use cases
 
-##🚀 CUDA Performance Tip
-For GPU kernels, SoA is generally preferred due to better memory access patterns. It allows threads in a warp to read adjacent memory locations, enabling faster and more efficient execution.
+## 🚀 CUDA Performance Tip
 
-##📌 Summary Table
-Layout	    Memory Access	  Performance	    Ease of Use
-AoS	        Non-contiguous	Slower	        Easier
-SoA	        Contiguous	    Faster	        Slightly complex
+| Recommendation | Reason |
+|----------------|--------|
+| Use **Structure of Arrays (SoA)** over **Array of Structures (AoS)** in GPU kernels | Threads in a warp can access adjacent memory locations, leading to **better memory coalescing** and **faster execution**. |
+## 📌 Summary Table
+
+| Layout | Memory Access   | Performance | Ease of Use        |
+|--------|------------------|-------------|---------------------|
+| AoS    | Non-contiguous   | Slower      | Easier              |
+| SoA    | Contiguous       | Faster      | Slightly complex    |
+
