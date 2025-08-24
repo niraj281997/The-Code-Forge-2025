@@ -14,9 +14,9 @@ struct Particle {
     float velocity;
 };
 Particle particles[N];
+```
 
-
-✅ Pros:
+##✅ Pros:
 
 Intuitive and easy to manage
 
@@ -31,11 +31,11 @@ Threads accessing the same field across structs may hit non-contiguous memory
 🔶 Structure of Arrays (SoA)
 Each field is stored in a separate array.
 
-cpp
+```cpp
 struct Particles {
     float x[N], y[N], z[N];
     float velocity[N];
-};
+};```
 #✅ Pros:
 
 Excellent memory coalescing
