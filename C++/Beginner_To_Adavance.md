@@ -91,7 +91,3 @@ Focus: Modern C++ and high-level concepts.
 - Each week, practice by solving problems or building small projects to apply what you’ve learned.  
 
 ---
-
-💡 *Tip:* For writing structured notes, project documentation, or research alongside this roadmap, you might find [Jenni AI](https://jenni.ai/?via=lekys) helpful. It’s an AI-powered research and writing assistant.  
-
----
