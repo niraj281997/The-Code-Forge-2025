@@ -3,46 +3,54 @@
 ## 📘 What is a Virtual Function?
 
 A **virtual function** is a member function in a base class that you expect to override in derived classes. It enables **runtime polymorphism**, allowing the program to decide at runtime which function to invoke based on the actual object type.
+##🔍 Why Runtime Binding Is Required
+When you use a base class pointer or reference to refer to a derived class object, the compiler doesn’t know at compile time which version of the function to call. Without runtime binding, it would default to the base class version — even if the actual object is of the derived type.
 
+### 🧠 Example Without Virtual Function (Static Binding)
 ```cpp
-#include <iostream>
-using namespace std;
-
-// Abstract base class with a pure virtual function
-class Animal {
+class Base {
 public:
-    virtual void speak() = 0; // Pure virtual function
-};
-
-// Derived class 1
-class Dog : public Animal {
-public:
-    void speak() override {
-        cout << "Dog says: Woof!" << endl;
+    void show() {
+        cout << "Base class show" << endl;
     }
 };
 
-// Derived class 2
-class Cat : public Animal {
+class Derived : public Base {
 public:
-    void speak() override {
-        cout << "Cat says: Meow!" << endl;
+    void show() {
+        cout << "Derived class show" << endl;
     }
 };
 
 int main() {
-    Animal* pet;
+    Base* ptr;
+    Derived d;
+    ptr = &d;
+    ptr->show(); // Output: Base class show ❌
+}
 
-    Dog d;
-    Cat c;
+```
+### ✅ Example With Virtual Function (Runtime Binding)
+```cpp
+class Base {
+public:
+    virtual void show() {
+        cout << "Base class show" << endl;
+    }
+};
 
-    pet = &d;
-    pet->speak(); // Outputs: Dog says: Woof!
+class Derived : public Base {
+public:
+    void show() override {
+        cout << "Derived class show" << endl;
+    }
+};
 
-    pet = &c;
-    pet->speak(); // Outputs: Cat says: Meow!
-
-    return 0;
+int main() {
+    Base* ptr;
+    Derived d;
+    ptr = &d;
+    ptr->show(); // Output: Derived class show ✅
 }
 
 ```
