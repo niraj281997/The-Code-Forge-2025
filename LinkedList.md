@@ -16,7 +16,7 @@ A curated list of popular linked list problems for practice and reference. Inclu
   ✅ Solution: Yes
 
 - Remove Linked List Elements  
-  ✅ Solution: 
+  ✅ Solution: Yes
 
 - Insert into a Sorted Circular Linked List  
   ✅ Solution: 
@@ -58,7 +58,7 @@ A curated list of popular linked list problems for practice and reference. Inclu
   ✅ Solution: Yes
 
 - [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/)  
-  ✅ Solution: 
+  ✅ Solution: Yes
 
 ---
 
