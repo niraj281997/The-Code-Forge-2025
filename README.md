@@ -1,6 +1,6 @@
-# 🚀 Interview Preparation Repository
+# 🚀  Preparation Repository
 
-Welcome to your one-stop resource for mastering technical interviews! This repository is a curated collection of essential topics and hands-on practice materials across multiple domains.
+Welcome to your one-stop resource for mastering technical topics! This repository is a curated collection of essential topics and hands-on practice materials across multiple domains.
 
 ## 📘 What's Inside
 
