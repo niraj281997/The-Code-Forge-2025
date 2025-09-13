@@ -69,6 +69,23 @@ ORB fixes this by:
 3. Result: a descriptor that is **rotation invariant** and stable under camera rotations.  
 
 ---
+### How FAST and BRIEF works together ?
+
+FAST: finds where the interesting points (corners) are in the image.
+
+BRIEF: tells us how to describe each point so we can recognize the same one again in another frame.
+
+So BRIEF doesn’t literally “connect” the FAST points, but it gives each FAST keypoint a binary ID card. Later, when you look at the next frame:
+
+You detect corners again with FAST.
+
+You compute BRIEF descriptors for them.
+
+You compare descriptors between frames (using Hamming distance).
+
+If two descriptors are very similar → it’s likely the same physical corner in the world.
+
+That’s how features get matched (connected) across frames, which is what SLAM needs to track motion and build a map.
 
 ## ORB in One Line  
 
