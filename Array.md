@@ -26,27 +26,43 @@ A curated list of popular array problems for semiconductor interview practice. I
 
 ---
 
+
 ## 🔎 Searching & Sorting  
 
 - [Binary Search](https://leetcode.com/problems/binary-search/)  
-  ✅ Solution:  
+  ✅ Solution: Yes  
 
 - [First & Last Occurrence](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)  
+  ✅ Solution: Yes  
+
+- [Count Occurrences in Sorted Array](https://www.geeksforgeeks.org/count-number-of-occurrences-or-frequency-in-a-sorted-array/)  
+  ✅ Solution: Yes  
+
+- [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)  
   ✅ Solution:  
 
-- [Count Occurrences](https://www.geeksforgeeks.org/count-number-of-occurrences-or-frequency-in-a-sorted-array/)  
+- [Find Peak Element](https://leetcode.com/problems/find-peak-element/)  
   ✅ Solution:  
 
 - [Missing Number](https://leetcode.com/problems/missing-number/)  
-  ✅ Solution:  
+  ✅ Solution: Yes  
 
 - [Find Duplicate](https://leetcode.com/problems/find-the-duplicate-number/)  
+  ✅ Solution: Yes  
+
+- [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)  
   ✅ Solution:  
 
-- [Sort Colors (0s, 1s, 2s)](https://leetcode.com/problems/sort-colors/)  
+- [Aggressive Cows (Binary Search on Answer)](https://www.spoj.com/problems/AGGRCOW/)  
   ✅ Solution:  
 
-- [Union & Intersection](https://www.geeksforgeeks.org/union-and-intersection-of-two-sorted-arrays-2/)  
+- [Allocate Minimum Number of Pages](https://www.geeksforgeeks.org/allocate-minimum-number-pages/)  
+  ✅ Solution:  
+
+- [Sort Colors (Dutch National Flag Problem)](https://leetcode.com/problems/sort-colors/)  
+  ✅ Solution:  
+
+- [Union & Intersection of Two Sorted Arrays](https://www.geeksforgeeks.org/union-and-intersection-of-two-sorted-arrays-2/)  
   ✅ Solution:  
 
 ---
@@ -54,21 +70,33 @@ A curated list of popular array problems for semiconductor interview practice. I
 ## 🪟 Subarray & Sliding Window  
 
 - [Maximum Subarray (Kadane’s)](https://leetcode.com/problems/maximum-subarray/)  
-  ✅ Solution:  
+  ✅ Solution: Yes  
 
 - [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)  
+  ✅ Solution: Yes  
+
+- [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)  
+  ✅ Solution:  
+
+- [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)  
+  ✅ Solution:  
+
+- [Fruits into Baskets (Longest Subarray with at most 2 distinct)](https://leetcode.com/problems/fruit-into-baskets/)  
+  ✅ Solution:  
+
+- [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)  
+  ✅ Solution:  
+
+- [Permutation in String](https://leetcode.com/problems/permutation-in-string/)  
+  ✅ Solution:  
+
+- [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)  
   ✅ Solution:  
 
 - [Longest Subarray with Equal 0s & 1s](https://leetcode.com/problems/contiguous-array/)  
   ✅ Solution:  
 
-- [Longest Increasing Subarray](https://www.geeksforgeeks.org/longest-increasing-subarray/)  
-  ✅ Solution:  
-
 - [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)  
-  ✅ Solution:  
-
-- [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)  
   ✅ Solution:  
 
 ---
@@ -76,9 +104,6 @@ A curated list of popular array problems for semiconductor interview practice. I
 ## 🧮 Matrix & 2D Arrays  
 
 - [Rotate Image 90°](https://leetcode.com/problems/rotate-image/)  
-  ✅ Solution:  
-
-- [Spiral Matrix Traversal](https://leetcode.com/problems/spiral-matrix/)  
   ✅ Solution:  
 
 - [Search in 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix-ii/)  
