@@ -79,7 +79,7 @@ A curated list of popular array problems for semiconductor interview practice. I
   ✅ Solution:  
 
 - [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)  
-  ✅ Solution:  
+  ✅ Solution:  yes
 
 - [Fruits into Baskets (Longest Subarray with at most 2 distinct)](https://leetcode.com/problems/fruit-into-baskets/)  
   ✅ Solution:  
@@ -104,13 +104,13 @@ A curated list of popular array problems for semiconductor interview practice. I
 ## 🧮 Matrix & 2D Arrays  
 
 - [Rotate Image 90°](https://leetcode.com/problems/rotate-image/)  
-  ✅ Solution:  
+  ✅ Solution: Yes
 
 - [Search in 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix-ii/)  
-  ✅ Solution:  
+  ✅ Solution:  Yes
 
 - [Transpose of Matrix](https://www.geeksforgeeks.org/program-to-find-transpose-of-a-matrix/)  
-  ✅ Solution:  
+  ✅ Solution:  Yes
 
 - [Maximum Sum Rectangle](https://www.geeksforgeeks.org/maximum-sum-rectangle-in-a-2d-matrix-dp-27/)  
   ✅ Solution:  
@@ -120,7 +120,7 @@ A curated list of popular array problems for semiconductor interview practice. I
 ## ⚡ Advanced & Tricky  
 
 - [Majority Element](https://leetcode.com/problems/majority-element/)  
-  ✅ Solution:  
+  ✅ Solution: Yes
 
 - [Equilibrium Index](https://www.geeksforgeeks.org/equilibrium-index-of-an-array/)  
   ✅ Solution:  
