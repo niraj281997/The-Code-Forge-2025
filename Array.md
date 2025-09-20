@@ -13,16 +13,16 @@ A curated list of popular array problems for semiconductor interview practice. I
   ✅ Solution:  Yes
 
 - [Rotate Array by k](https://leetcode.com/problems/rotate-array/)  
-  ✅ Solution:  
+  ✅ Solution:  Yes
 
 - [Kth Largest Element](https://leetcode.com/problems/kth-largest-element-in-an-array/)  
-  ✅ Solution:  
+  ✅ Solution:  Attempted
 
 - [Check if Array is Sorted](https://www.geeksforgeeks.org/program-check-array-sorted-not-iterative-recursive/)  
   ✅ Solution:  Yes
 
 - [Merge Two Sorted Arrays](https://leetcode.com/problems/merge-sorted-array/)  
-  ✅ Solution:  
+  ✅ Solution:  Yes
 
 ---
 
