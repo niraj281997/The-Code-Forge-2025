@@ -75,7 +75,7 @@ A curated list of popular linked list problems for practice and reference. Inclu
 ## 🔄 Rearrangement & Rotation
 
 - [Rotate List](https://leetcode.com/problems/rotate-list/)  
-  ✅ Solution: 
+  ✅ Solution: Yes
 
 - [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)  
   ✅ Solution: 
