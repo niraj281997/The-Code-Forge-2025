@@ -15,7 +15,7 @@ A curated list of popular linked list problems for practice and reference. Inclu
 - [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)  
   ✅ Solution: Yes
 
-- Remove Linked List Elements  
+- [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)  
   ✅ Solution: Yes
 
 - Insert into a Sorted Circular Linked List  
