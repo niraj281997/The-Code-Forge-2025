@@ -15,7 +15,8 @@
 - [Find Missing Number](https://leetcode.com/problems/missing-number/)  
   ✅ Solution:  Yes
 
-- [Find the Only Non-Repeating Element](https://www.geeksforgeeks.org/problems/find-the-element-that-appears-once-in-sorted-array0624/1) 
+- [Find the Only Non-Repeating Element](https://www.geeksforgeeks.org/problems/find-the-element-that-appears-once-in-sorted-array0624/1)
+
   ✅ Solution:  Yes
 
 - [Number of 1 Bits (Hamming Weight)](https://leetcode.com/problems/number-of-1-bits/)  
