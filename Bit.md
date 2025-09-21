@@ -1,7 +1,7 @@
 # Bit Manipulation Questions
 
 - [Check if a Number is Power of Two](https://leetcode.com/problems/power-of-two/)  
-  ✅ Solution:  
+  ✅ Solution:  Yes
 
 - [Count Set Bits](https://www.geeksforgeeks.org/count-set-bits-in-an-integer/)  
   ✅ Solution:  Yes
@@ -10,13 +10,13 @@
   ✅ Solution:  Yes
 
 - [Two Single Numbers (All numbers appear twice except two)](https://leetcode.com/problems/single-number-iii/)  
-  ✅ Solution:  
+  ✅ Solution:  Yes - Very important 
 
 - [Find Missing Number](https://leetcode.com/problems/missing-number/)  
   ✅ Solution:  Yes
 
-- [Find the Only Non-Repeating Element](https://practice.geeksforgeeks.org/problems/element-appears-once/0)  
-  ✅ Solution:  
+- [Find the Only Non-Repeating Element](https://www.geeksforgeeks.org/problems/find-the-element-that-appears-once-in-sorted-array0624/1) 
+  ✅ Solution:  Yes
 
 - [Number of 1 Bits (Hamming Weight)](https://leetcode.com/problems/number-of-1-bits/)  
   ✅ Solution:  Yes
@@ -25,7 +25,7 @@
   ✅ Solution:  
 
 - [Reverse Bits](https://leetcode.com/problems/reverse-bits/)  
-  ✅ Solution:  
+  ✅ Solution:  Yes
 
 - [XOR from 1 to N](https://www.geeksforgeeks.org/calculate-xor-1-n/)  
   ✅ Solution:  Yes
