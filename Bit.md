@@ -36,13 +36,13 @@
 ## Common Interview-Oriented Bit Questions
 
 - [Find Rightmost Set Bit](https://www.geeksforgeeks.org/position-of-rightmost-set-bit/)  
-  ✅ Solution:  
+  ✅ Solution:  Yes
 
 - [Check if kth Bit is Set](https://www.geeksforgeeks.org/check-whether-k-th-bit-set-not/)  
-  ✅ Solution:  
+  ✅ Solution:  Yes
 
 - [Swap Two Numbers Without Temp Variable](https://www.geeksforgeeks.org/swap-two-numbers-without-using-temporary-variable/)  
-  ✅ Solution:  
+  ✅ Solution:  Yes
 
 - [Divide Two Integers without / or *](https://leetcode.com/problems/divide-two-integers/)  
   ✅ Solution:  
